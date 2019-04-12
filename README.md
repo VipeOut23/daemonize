@@ -13,6 +13,7 @@ Targets:
   - install
   - uninstall
   - clean
+
 Environment:
   - PREFIX (un-/install prefix | def: ~/.local)
 
